@@ -1,7 +1,4 @@
-# CodeAlpha_Task2_Unemployment_Analysis
 # Unemployment Analysis with Python
-
-This project is part of my Data Science Internship at **CodeAlpha**.
 
 ## About
 The goal is to analyze unemployment rate trends in India, study the impact of Covid-19 on unemployment, and identify patterns across regions and time that could inform policy decisions.
